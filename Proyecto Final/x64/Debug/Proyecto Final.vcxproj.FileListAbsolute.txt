@@ -1,0 +1,6 @@
+D:\Home\Desktop\Uni\Algoritmos 2\Trabajo Final\Proyecto Final\Proyecto Final\x64\Debug\Proyecto Final.vcxproj.AssemblyReference.cache
+D:\Home\Desktop\Uni\Algoritmos 2\Trabajo Final\Proyecto Final\Proyecto Final\x64\Debug\Proyecto Final.vcxproj.SuggestedBindingRedirects.cache
+D:\Home\Desktop\Uni\Algoritmos 2\Trabajo Final\Proyecto Final\Proyecto Final\x64\Debug\ProyectoFinal.JuegoNormal.resources
+D:\Home\Desktop\Uni\Algoritmos 2\Trabajo Final\Proyecto Final\Proyecto Final\x64\Debug\ProyectoFinal.Menugeneral.resources
+D:\Home\Desktop\Uni\Algoritmos 2\Trabajo Final\Proyecto Final\Proyecto Final\x64\Debug\ProyectoFinal.Reglasform.resources
+D:\Home\Desktop\Uni\Algoritmos 2\Trabajo Final\Proyecto Final\Proyecto Final\x64\Debug\Proyecto Final.vcxproj.GenerateResource.cache
